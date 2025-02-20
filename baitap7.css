@@ -1,0 +1,61 @@
+img {
+    width: 270px;
+    border-radius: 5px;
+    height: 180px;
+}
+
+hr {
+    width: 24.6cm;
+}
+
+.text1 {
+    position: absolute;
+    top: 15%;
+    color: white;
+    margin-left: 15px;
+}
+
+.text2 {
+    position: absolute;
+    top: 15%;
+    color: white;
+    margin-left: 50px;
+}
+
+.text3 {
+    position: absolute;
+    top: 15%;
+    color: white;
+    margin-left: 50px;
+}
+
+.icon1 {
+    position: absolute;
+    top: 30%;
+    color: white;
+    margin-left: 150px;
+}
+
+.icon2 {
+    position: absolute;
+    top: 30%;
+    color: white;
+    margin-left: 130px;
+}
+
+.icon3 {
+    position: absolute;
+    top: 30%;
+    color: white;
+    margin-left: 110px;
+}
+
+.b1,
+.b2,
+.b3 {
+    position: absolute;
+    top: 30%;
+    color: rgb(141, 40, 134);
+    margin-left: 20px;
+}
+
